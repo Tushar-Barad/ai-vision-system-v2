@@ -250,7 +250,7 @@ The voice output supports multiple languages:
 - **Permissions:** The app requires Camera, Location, Microphone, SMS, and Bluetooth permissions at runtime.
 - **Minimum SDK:** Android 7.0 (API 24) or higher.
 
----
+-big notice is objject ditection by TFlite is not work for now i will fix it in future if someone find it so suggest me how to fix it at 7572927317 wp 
 
 ## 👨‍💻 Author
 
